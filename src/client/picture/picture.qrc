@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>200765447673.png</file>
+        <file>2007654348204.png</file>
+        <file>2007654410427.png</file>
+        <file>2007654411129.png</file>
+        <file>2007654416100.png</file>
+        <file>2007654421420.png</file>
+        <file>20076922019234.png</file>
+        <file>20080408121111175.png</file>
+        <file>20080711232652462.png</file>
+        <file>button.png</file>
+        <file>16.jpg</file>
+        <file>button-pressed.png</file>
+        <file>wood.jpg</file>
+        <file>background.png</file>
+        <file>bgLandscape.jpg</file>
+        <file>checkbox.gif</file>
+        <file>bgPortrait.jpg</file>
+    </qresource>
+</RCC>
